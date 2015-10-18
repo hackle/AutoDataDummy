@@ -1,0 +1,11 @@
+syntax: glob
+**.suo
+**.DotSettings.user
+**.pdb
+**.orig
+**.dll
+.nuget/
+packages/
+bin/
+obj/
+Publisher/Teamseer

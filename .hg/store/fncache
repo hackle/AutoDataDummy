@@ -1,0 +1,9 @@
+data/.hgignore.i
+data/AutoMoqDummy/ISinger.cs.i
+data/AutoMoqDummy/LocalAddin.cs.i
+data/AutoMoqDummy/packages.config.i
+data/AutoMoqDummy/Class1.cs.i
+data/AutoMoqDummy/AutoMoqDummy.csproj.i
+data/AutoMoqDummy/App.config.i
+data/AutoMoqDummy.sln.i
+data/AutoMoqDummy/Properties/AssemblyInfo.cs.i
